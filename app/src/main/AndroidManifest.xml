@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ru.sterus.history.itmemory">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_itmemory_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_itmemory_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ITmeMOry">
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="${GOOGLE_MAPS_API_KEY}" />
+        <activity android:name=".Main" android:exported="true"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".ArticleActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".QuizActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".SearchActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait"/>
+    </application>
+</manifest>

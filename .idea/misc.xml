@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/background_frame.xml" value="0.152" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/custom_input.xml" value="0.131" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/gradient_overlay.xml" value="0.162" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/ic_baseline_blur_circular_24.xml" value="0.1025" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/ic_baseline_casino_24.xml" value="0.193" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/ic_baseline_cast_connected_24.xml" value="0.1175" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/ic_baseline_fmd_good_24.xml" value="0.122" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/ic_baseline_map_24.xml" value="0.1" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/ic_baseline_photo_camera_24.xml" value="0.122" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/ic_baseline_quiz_24.xml" value="0.1025" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/ic_booksaved.xml" value="0.11" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/ic_itmemory_logo.xml" value="0.1015" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1175" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/ic_like1.xml" value="0.1045" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/ic_map.xml" value="0.1175" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/ic_map_background.xml" value="0.1" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/ic_map_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/ic_no_result_found_on_web_icon.xml" value="0.131" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/ic_person.xml" value="0.193" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/ic_profile.xml" value="0.1" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/ic_wikipedia_logo_v2.xml" value="0.157" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/ic_yandex_maps_icon__1_.xml" value="0.1" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/iconsax_lin.xml" value="0.193" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/map-48px.xml" value="0.1" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/more_information_round_button.xml" value="0.2025" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/progress_icon.xml" value="0.158" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/query_stats-48px.xml" value="0.1" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/round_back_question.xml" value="0.1025" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/round_header_question_back.xml" value="0.1025" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/round_main_selector_part.xml" value="0.1655" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/round_not_implemented_yet_button.xml" value="0.131" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/round_quiz_selector_part.xml" value="0.1495" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/round_search_section_part.xml" value="0.131" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/round_settings_selector_part.xml" value="0.1" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/switcher.xml" value="0.162" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/wiki_info_round_button.xml" value="0.157" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/drawable/yandex_map_round_button.xml" value="0.1495" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/layout-v28/activity_main.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/layout-v28/fragment_news.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/layout/activity_article.xml" value="0.2" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/layout/activity_search.xml" value="0.25" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/layout/fragment_blank.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/layout/fragment_map.xml" value="0.2" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/layout/fragment_news.xml" value="0.264" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/layout/fragment_quiz.xml" value="0.2" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/layout/fragment_service.xml" value="0.264" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/layout/item_rv_gallery_layout.xml" value="0.25" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/layout/item_rv_layout.xml" value="0.152" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/layout/item_rv_news_layout.xml" value="0.4" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/layout/item_rv_news_parent_layout.xml" value="0.2" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/layout/item_rv_search_layout.xml" value="0.25" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/layout/news_parent_header.xml" value="0.264" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/layout/rec_view_quiz_question.xml" value="0.128" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/mipmap-anydpi-v26/Ic_test.xml" value="0.1185" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1015" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/mipmap-anydpi-v26/ic_map.xml" value="0.1175" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/mipmap-anydpi-v26/ic_map_round.xml" value="0.1175" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/ITmeMOry/app/src/main/res/xml/progress_icon.xml" value="0.176" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

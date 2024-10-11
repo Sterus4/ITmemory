@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="news_page_header_text_size">10sp</dimen>
+    <dimen name="quiz_question_option_text_size">20sp</dimen>
+    <dimen name="quiz_question_min_height">60dp</dimen>
+    <dimen name="quiz_question_text_size">20sp</dimen>
+    <dimen name="question_header_text_size">20sp</dimen>
+    <dimen name="start_quiz_button_text_size">20sp</dimen>
+    <dimen name="intro_text_view_text_size">20sp</dimen>
+    <dimen name="next_question_button_text_size">15sp</dimen>
+    <dimen name="end_quiz_part1_text_size">38sp</dimen>
+    <dimen name="end_quiz_part2_text_size">18sp</dimen>
+    <dimen name="article_name_text_view_text_size">30sp</dimen>
+    <dimen name="article_content_text_size">20sp</dimen>
+    <dimen name="article_content_line_height">35dp</dimen>
+    <dimen name="go_home_text_size">22sp</dimen>
+    <dimen name="news_name_of_the_article_text_size">14sp</dimen>
+    <dimen name="news_card_view_width">240dp</dimen>
+    <dimen name="news_card_view_height">210dp</dimen>
+    <dimen name="section_title_text_size">30sp</dimen>
+</resources>
